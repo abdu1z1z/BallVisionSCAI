@@ -1,0 +1,9 @@
+path: C:/Users/abdul/Desktop/YoloV8_New_Attempt/datasets/football_pitch
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['pitch_layout']
+kpt_shape: [14, 3]
+flip_idx: [2, 1, 0, 9, 10, 8, 6, 7, 5, 3, 4, 13, 12, 11]
